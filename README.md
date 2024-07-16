@@ -5,7 +5,7 @@ This data set contains
 ## Files
 
 ### General Information
-1. **Session Name**: naming in the format of "<Session_id>\_<speed>\_<session_number>\_clip\_<task>". speed is in [5, 6, 7, 8, 9, 10] (mph). task is in [1: read a paragraph; 2: deep breath; 3: spontaneous speech].
+1. **Session Name**: naming in the format of "SESSION_ID\_SPEED\_SESSION NUMBER\_clip\_TASK". speed is in [5, 6, 7, 8, 9, 10] (mph). task is in [1: read a paragraph; 2: deep breath; 3: spontaneous speech].
 2. **Demographic**: Age, Gender, Weight (kg), Height (cm)
 3. **Running Related Questions**:
 - Are you a professional or semi-professional athlete?
