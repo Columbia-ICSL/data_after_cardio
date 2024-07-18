@@ -30,19 +30,17 @@ Heart Rate | Garmin/Coros watch in Yoga Mode
 
 
 ## Files
-
-## audio
-Readig, talking, and deep breath audio.
-
-## watch 
-Timestamped heart rate.
-
-## respiration_belt 
-Timestamped Force(N) and Respiration Rate(bpm).
-
 *NOTE*: files in **audio**, **watch**, and **respiration_belt** are synced by human annotators (starting at the same time). 
 
 
+### audio
+Readig, talking, and deep breath audio.
+
+### watch 
+Timestamped heart rate.
+
+### respiration_belt 
+Timestamped Force(N) and Respiration Rate(bpm).
 
 ### general_information.csv
 The content in general_information.csv includes:
@@ -58,4 +56,6 @@ The content in general_information.csv includes:
 - What is the longest distance you ran (in km)? (If you don't know, please put N.A..)
 - And how long did your longest distance take (in minutes)? (If you don't know, please put N.A..)
 
-## Files
+
+### Contact
+Please contact jn2551@columbia.edu if you have further questions about this pilot study data.
