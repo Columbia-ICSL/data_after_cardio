@@ -5,7 +5,9 @@
 
 ### Other Details
 Participants: Adult (ages from 19-37) lab memembers, study investigators, and their friends who are interested in this study.
-Devices: 
+
+Module | Device
+--- | ---
 Audio | Voice Memos App on iPhone 
 Respiration | Vernier Go Direct respiration belt (https://www.vernier.com/product/go-direct-respiration-belt/) 
 Heart Rate | Garmin/Coros watch in Yoga Mode
