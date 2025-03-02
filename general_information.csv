@@ -1,204 +1,733 @@
-Session Name,Age,Gender,Weight (kg),Height (cm),Are you a professional or semi-professional athlete?,How often do you exercise a week?,How many hours in total do you exercise during a week?,What kind of sports do you usually do?,Do you have any expertise in running?,How many times do you run during a week?,"How many kilometers on average do you run in total each week? (in km, a rough estimate would be fine)
-","What is the longest distance you ran (in km)? (If you don't know, please put N.A..)","And how long did your longest distance take (in minutes)? (If you don't know, please put N.A..)"
- j1784n_6_0_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1784n_9_0_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1784n_9_1_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1784n_9_2_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1784n_9_3_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- z1785p_10_0_clip_1,24.0,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92
- z1785p_6_0_clip_1,24.0,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92
- z1785p_7_0_clip_1,24.0,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92
- z1785p_9_0_clip_1,24.0,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92
- c1786f_6_0_clip_1,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- j1787l_6_0_clip_1,24.0,Male,79.0,175,No,3-5 times a week,3-4 hours,Lifting,Yes,< once a week,1 km,16 km,1 hour 30 minutes
- z1790x_5_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z1790x_6_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z1790x_7_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- c1791c_5_0_clip_1,23.0,Female,62.0,161,No,1-2 times a week,1-2 hours,Cycling,No,< once a week,3,N.A..,N.A..
- c1791c_6_0_clip_1,23.0,Female,62.0,161,No,1-2 times a week,1-2 hours,Cycling,No,< once a week,3,N.A..,N.A..
- a1793d_5_0_clip_1,23.0,Male,84.0,170,No,3-5 times a week,3-4 hours,"Powerlifting, volleyball ",No,< once a week,1 km,10 km,67 minutes
- a1793d_6_0_clip_1,23.0,Male,84.0,170,No,3-5 times a week,3-4 hours,"Powerlifting, volleyball ",No,< once a week,1 km,10 km,67 minutes
- a1793d_7_0_clip_1,23.0,Male,84.0,170,No,3-5 times a week,3-4 hours,"Powerlifting, volleyball ",No,< once a week,1 km,10 km,67 minutes
- k1793a_5_0_clip_1,20.0,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na
- k1793a_6_0_clip_1,20.0,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na
- k1793a_7_0_clip_1,20.0,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na
- k1793a_8_0_clip_1,20.0,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na
- a1867r_10_0_clip_1,20.0,Male,84.0,6'2 ft,No,> 5 times a week,> 5 hours,soccer,Yes,3-5 times a week,17km,,
- a1867r_8_0_clip_1,20.0,Male,84.0,6'2 ft,No,> 5 times a week,> 5 hours,soccer,Yes,3-5 times a week,17km,,
- a1867r_6_0_clip_1,19.0,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate)
- a1867r_6_1_clip_1,19.0,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate)
- a1867r_7_0_clip_1,19.0,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate)
- a1867r_9_0_clip_1,19.0,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate)
- j1871n_10_0_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1871n_10_1_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1871n_10_2_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1871n_10_3_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1871n_10_4_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- c1872b_5_0_clip_1,21.0,Male,61.0,"5'6""",No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes
- c1872b_5_1_clip_1,21.0,Male,61.0,"5'6""",No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes
- c1872b_6_0_clip_1,21.0,Male,61.0,"5'6""",No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes
- c1872b_6_1_clip_1,21.0,Male,61.0,"5'6""",No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes
- c1872b_7_0_clip_1,21.0,Male,61.0,"5'6""",No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes
- c1872b_7_1_clip_1,21.0,Male,61.0,"5'6""",No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes
- j1872f_10_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1872f_10_1_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1872f_10_2_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1872f_10_3_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- w1872z_10_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1872z_7_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1872z_8_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1872z_9_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- c1873a_10_0_clip_1,18.0,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A
- c1873a_6_0_clip_1,18.0,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A
- c1873a_7_0_clip_1,18.0,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A
- c1873a_8_0_clip_1,18.0,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A
- c1873a_9_0_clip_1,18.0,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A
- e1873c_10_0_clip_1,19.0,Male,72.0,178,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,,
- e1873c_6_0_clip_1,19.0,Male,72.0,178,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,,
- e1873c_8_0_clip_1,19.0,Male,72.0,178,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,,
- e1873d_6_0_clip_1,19.0,Male,69.0,175,No,1-2 times a week,1-2 hours,I occasionally play soccer ,No,< once a week,Probably like 2,N.A,N.A
- e1873d_7_0_clip_1,19.0,Male,69.0,175,No,1-2 times a week,1-2 hours,I occasionally play soccer ,No,< once a week,Probably like 2,N.A,N.A
- e1873d_9_0_clip_1,19.0,Male,69.0,175,No,1-2 times a week,1-2 hours,I occasionally play soccer ,No,< once a week,Probably like 2,N.A,N.A
- m1873r_6_0_clip_1,18.0,Male,74.8,175.26,No,3-5 times a week,1-2 hours,"Weights in Gym, once a week play basketball",No,Whenever I am late for something important,"Running: 0km, Walking: 7.61 km",N.A.,N.A.
- m1873r_7_0_clip_1,18.0,Male,74.8,175.26,No,3-5 times a week,1-2 hours,"Weights in Gym, once a week play basketball",No,Whenever I am late for something important,"Running: 0km, Walking: 7.61 km",N.A.,N.A.
- m1873r_8_0_clip_1,18.0,Male,74.8,175.26,No,3-5 times a week,1-2 hours,"Weights in Gym, once a week play basketball",No,Whenever I am late for something important,"Running: 0km, Walking: 7.61 km",N.A.,N.A.
- x1873t_10_0_clip_1,18.0,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min
- x1873t_6_0_clip_1,18.0,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min
- x1873t_6_1_clip_1,18.0,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min
- x1873t_7_0_clip_1,18.0,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min
- x1873t_8_0_clip_1,18.0,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min
- x1873t_9_0_clip_1,18.0,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min
- j1887n_9_1_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j1887n_9_2_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- w1891z_10_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1891z_5_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1891z_6_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1891z_8_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w1891z_9_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- q1893y_10_0_clip_1,37.0,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,70,5O,around 6 hours
- q1893y_7_0_clip_1,37.0,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,70,5O,around 6 hours
- q1893y_8_0_clip_1,37.0,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,70,5O,around 6 hours
- m1895z_5_0_clip_1,59.0,Female,125.0,166,No,> 5 times a week,> 5 hours,Running Swimming Biking,Yes,3-5 times a week,25,32,~180
- m1895z_7_1_clip_1,59.0,Female,125.0,166,No,> 5 times a week,> 5 hours,Running Swimming Biking,Yes,3-5 times a week,25,32,~180
- m1895z_8_0_clip_1,59.0,Female,125.0,166,No,> 5 times a week,> 5 hours,Running Swimming Biking,Yes,3-5 times a week,25,32,~180
- a1967w_5_0_clip_1,53.0,Female,54.0,160,No,3-5 times a week,1-2 hours,Running ,No,3-5 times a week,15K,42,4:45
- h1967s_5_0_clip_1,40.0,Female,65.0,170,No,1-2 times a week,2-3 hours,Gym,Yes,1-2 times a week,2mile,6mile,50min
- a1968j_5_0_clip_1,59.0,Male,70.0,175,No,3-5 times a week,> 5 hours,Run,Yes,3-5 times a week,20,Marathon ,4:45
- z1968x_6_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z1968x_7_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- a1972d_5_0_clip_1,23.0,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10
- a1972d_7_0_clip_1,23.0,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10
- a1972d_8_0_clip_1,23.0,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10
- a1972d_9_0_clip_1,23.0,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10
- b1972s_10_0_clip_1,27.0,Male,79.3,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220
- b1972s_5_0_clip_1,27.0,Male,79.3,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220
- b1972s_6_0_clip_1,27.0,Male,79.3,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220
- b1972s_7_0_clip_1,27.0,Male,79.3,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220
- b1972s_8_0_clip_1,27.0,Male,79.3,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220
- j1979f_10_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1979f_8_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1979f_8_1_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1979f_8_2_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j1979f_9_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- x1987y_5_0_clip_1,53.0,Male,67.0,181,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,35km,42.6 km,3:30:00
- x1987y_8_0_clip_1,53.0,Male,67.0,181,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,35km,42.6 km,3:30:00
- x1987y_9_0_clip_1,53.0,Male,67.0,181,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,35km,42.6 km,3:30:00
- y1992z_10_0_clip_1,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_0_clip_2,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_1_clip_1,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_1_clip_2,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_1_clip_3,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_2_clip_1,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_2_clip_2,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_10_2_clip_3,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_8_0_clip_1,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_8_0_clip_2,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_8_0_clip_3,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_9_0_clip_1,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- y1992z_9_0_clip_2,23.0,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164
- k1995z_5_0_clip_1,30.0,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76
- k1995z_5_0_clip_2,30.0,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76
- k1995z_6_0_clip_1,30.0,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76
- k1995z_6_0_clip_2,30.0,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76
- y2073n_6_0_clip_1,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2073n_6_0_clip_2,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2073n_7_0_clip_1,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2073n_7_0_clip_2,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2073n_7_0_clip_3,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- z2073x_6_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_6_0_clip_2,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_6_1_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_6_1_clip_2,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_6_1_clip_3,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_7_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_7_0_clip_2,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_7_0_clip_3,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_7_1_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_7_1_clip_2,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2073x_7_1_clip_3,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- y2083f_8_0_clip_1,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_0_clip_2,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_0_clip_3,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_1_clip_1,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_1_clip_2,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_1_clip_3,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_2_clip_1,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_2_clip_2,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- y2083f_8_2_clip_3,23.0,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.
- z2083x_7_0_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2083x_7_0_clip_2,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2083x_7_0_clip_3,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2083x_7_1_clip_1,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2083x_7_1_clip_2,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- z2083x_7_1_clip_3,24.0,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min
- c2085f_6_0_clip_1,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_6_0_clip_2,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_6_0_clip_3,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_7_0_clip_1,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_7_0_clip_2,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_7_0_clip_3,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_7_1_clip_1,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_7_1_clip_2,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- c2085f_7_1_clip_3,33.0,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,
- j2085n_6_0_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_6_0_clip_2,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_6_0_clip_3,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_7_0_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_7_0_clip_2,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_7_0_clip_3,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_8_0_clip_1,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_8_0_clip_2,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- j2085n_8_0_clip_3,28.0,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes
- y2085n_6_0_clip_1,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_6_0_clip_2,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_6_0_clip_3,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_7_0_clip_1,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_7_0_clip_2,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_7_0_clip_3,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_7_1_clip_1,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_7_1_clip_2,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- y2085n_7_1_clip_3,23.0,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min
- j2087f_7_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_7_0_clip_2,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_7_0_clip_3,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_8_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_8_0_clip_2,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_8_0_clip_3,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_9_0_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_9_0_clip_2,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_9_0_clip_3,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_9_1_clip_1,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_9_1_clip_2,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- j2087f_9_1_clip_3,24.0,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30
- w2087z_10_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_10_0_clip_2,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_10_0_clip_3,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_8_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_8_0_clip_2,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_8_0_clip_3,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_8_1_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_8_1_clip_2,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_8_1_clip_3,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_9_0_clip_1,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_9_0_clip_2,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
- w2087z_9_0_clip_3,32.0,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min
+Session Name,Exertion,Age,Gender,Weight (kg),Height (cm),Are you a professional or semi-professional athlete?,How often do you exercise a week?,How many hours in total do you exercise during a week?,What kind of sports do you usually do?,Do you have any expertise in running?,How many times do you run during a week?,"How many kilometers on average do you run in total each week? (in km, a rough estimate would be fine)
+","What is the longest distance you ran (in km)? (If you don't know, please put N.A..)","And how long did your longest distance take (in minutes)? (If you don't know, please put N.A..)","How many kilometers on average do you run in total each week? (in km, a rough estimate would be fine)"
+d31_P01_6_0_clip_1,1,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d31_P01_9_0_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d31_P01_9_1_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d31_P01_9_2_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d31_P01_9_3_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d22_P28_10_0_clip_1,4,24,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92,
+d22_P28_6_0_clip_1,2,24,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92,
+d22_P28_7_0_clip_1,2,24,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92,
+d22_P28_9_0_clip_1,4,24,Male,73.0,180,No,3-5 times a week,> 5 hours,Run and workout ,No,3-5 times a week,40,15,92,
+d46_P04_6_0_clip_1,1,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d47_P59_6_0_clip_1,2,24,Male,79.0,175,No,3-5 times a week,3-4 hours,Lifting,Yes,< once a week,1 km,16 km,1 hour 30 minutes,
+d25_P11_5_0_clip_1,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d25_P11_6_0_clip_1,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d25_P11_7_0_clip_1,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d39_P46_5_0_clip_1,2,23,Female,62.0,161,No,1-2 times a week,1-2 hours,Cycling,No,< once a week,3,N.A..,N.A..,
+d39_P46_6_0_clip_1,2,23,Female,62.0,161,No,1-2 times a week,1-2 hours,Cycling,No,< once a week,3,N.A..,N.A..,
+d12_P25_5_0_clip_1,1,23,Male,84.0,170,No,3-5 times a week,3-4 hours,"Powerlifting, volleyball ",No,< once a week,1 km,10 km,67 minutes,
+d12_P25_6_0_clip_1,3,23,Male,84.0,170,No,3-5 times a week,3-4 hours,"Powerlifting, volleyball ",No,< once a week,1 km,10 km,67 minutes,
+d12_P25_7_0_clip_1,4,23,Male,84.0,170,No,3-5 times a week,3-4 hours,"Powerlifting, volleyball ",No,< once a week,1 km,10 km,67 minutes,
+d12_P19_5_0_clip_1,1,20,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na,
+d12_P19_6_0_clip_1,2,20,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na,
+d12_P19_7_0_clip_1,3,20,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na,
+d12_P19_8_0_clip_1,4,20,Female,56.0,160,No,3-5 times a week,3-4 hours,running and swimming ,Yes,1-2 times a week,15 km,20 km,na,
+d16_P29_10_0_clip_1,4,20,Male,84.0,188,No,> 5 times a week,> 5 hours,soccer,Yes,3-5 times a week,17km,,,
+d16_P29_8_0_clip_1,3,20,Male,84.0,188,No,> 5 times a week,> 5 hours,soccer,Yes,3-5 times a week,17km,,,
+d16_P48_6_0_clip_1,1,19,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate),
+d16_P48_6_1_clip_1,1,19,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate),
+d16_P48_7_0_clip_1,2,19,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate),
+d16_P48_9_0_clip_1,4,19,Male,68.0,183,No,1-2 times a week,2-3 hours,Volleyball,Yes,< once a week,6km,10km,~80 minutes (rough estimate),
+d08_P01_10_0_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d08_P01_10_1_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d08_P01_10_2_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d08_P01_10_3_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d08_P01_10_4_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d15_P21_5_0_clip_1,4,21,Male,61.0,168,No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes,
+d15_P21_5_1_clip_1,4,21,Male,61.0,168,No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes,
+d15_P21_6_0_clip_1,4,21,Male,61.0,168,No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes,
+d15_P21_6_1_clip_1,4,21,Male,61.0,168,No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes,
+d15_P21_7_0_clip_1,5,21,Male,61.0,168,No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes,
+d15_P21_7_1_clip_1,5,21,Male,61.0,168,No,< once a week,1-2 hours,"running, soccer, hiking",Yes,< once a week,0,10,50 minutes,
+d15_P17_10_0_clip_1,4,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d15_P17_10_1_clip_1,4,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d15_P17_10_2_clip_1,4,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d15_P17_10_3_clip_1,4,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d15_P49_10_0_clip_1,4,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d15_P49_7_0_clip_1,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d15_P49_8_0_clip_1,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d15_P49_9_0_clip_1,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d28_P42_10_0_clip_1,4,18,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A,
+d28_P42_6_0_clip_1,1,18,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A,
+d28_P42_7_0_clip_1,2,18,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A,
+d28_P42_8_0_clip_1,3,18,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A,
+d28_P42_9_0_clip_1,4,18,Male,72.0,179,No,3-5 times a week,3-4 hours,light weight lifting and basketball ,Yes,< once a week,1,5000,N.A,
+d28_P33_10_0_clip_1,3,19,Male,72.0,178,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,,,
+d28_P33_6_0_clip_1,2,19,Male,72.0,178,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,,,
+d28_P33_8_0_clip_1,2,19,Male,72.0,178,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,,,
+d28_P47_6_0_clip_1,2,19,Male,69.0,175,No,1-2 times a week,1-2 hours,I occasionally play soccer ,No,< once a week,Probably like 2,N.A,N.A,
+d28_P47_7_0_clip_1,3,19,Male,69.0,175,No,1-2 times a week,1-2 hours,I occasionally play soccer ,No,< once a week,Probably like 2,N.A,N.A,
+d28_P47_9_0_clip_1,4,19,Male,69.0,175,No,1-2 times a week,1-2 hours,I occasionally play soccer ,No,< once a week,Probably like 2,N.A,N.A,
+d28_P44_6_0_clip_1,2,18,Male,75.0,175,No,3-5 times a week,1-2 hours,"Weights in Gym, once a week play basketball",No,Whenever I am late for something important,"Running: 0km, Walking: 7.61 km",N.A.,N.A.,
+d28_P44_7_0_clip_1,3,18,Male,75.0,175,No,3-5 times a week,1-2 hours,"Weights in Gym, once a week play basketball",No,Whenever I am late for something important,"Running: 0km, Walking: 7.61 km",N.A.,N.A.,
+d28_P44_8_0_clip_1,4,18,Male,75.0,175,No,3-5 times a week,1-2 hours,"Weights in Gym, once a week play basketball",No,Whenever I am late for something important,"Running: 0km, Walking: 7.61 km",N.A.,N.A.,
+d28_P37_10_0_clip_1,2,18,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min,
+d28_P37_6_0_clip_1,2,18,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min,
+d28_P37_6_1_clip_1,2,18,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min,
+d28_P37_7_0_clip_1,3,18,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min,
+d28_P37_8_0_clip_1,3,18,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min,
+d28_P37_9_0_clip_1,4,18,Male,70.0,181,No,1-2 times a week,3-4 hours,riding,No,< once a week,2,N.A,30min,
+d38_P01_9_1_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d38_P01_9_2_clip_1,4,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d43_P49_10_0_clip_1,4,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d43_P49_5_0_clip_1,1,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d43_P49_6_0_clip_1,1,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d43_P49_8_0_clip_1,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d43_P49_9_0_clip_1,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d18_P24_10_0_clip_1,4,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,70,5O,around 6 hours,
+d18_P24_7_0_clip_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,70,5O,around 6 hours,
+d18_P24_8_0_clip_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,70,5O,around 6 hours,
+d17_P23_5_0_clip_1,1,59,Female,125.0,166,No,> 5 times a week,> 5 hours,Running Swimming Biking,Yes,3-5 times a week,25,32,~180,
+d17_P23_7_1_clip_1,3,59,Female,125.0,166,No,> 5 times a week,> 5 hours,Running Swimming Biking,Yes,3-5 times a week,25,32,~180,
+d17_P23_8_0_clip_1,4,59,Female,125.0,166,No,> 5 times a week,> 5 hours,Running Swimming Biking,Yes,3-5 times a week,25,32,~180,
+d45_P56_5_0_clip_1,3,53,Female,54.0,160,No,3-5 times a week,1-2 hours,Running ,No,3-5 times a week,15K,42,4:45,
+d45_P54_5_0_clip_1,2,40,Female,65.0,170,No,1-2 times a week,2-3 hours,Gym,Yes,1-2 times a week,2mile,6mile,50min,
+d32_P35_5_0_clip_1,2,59,Male,70.0,175,No,3-5 times a week,> 5 hours,Run,Yes,3-5 times a week,20,Marathon ,4:45,
+d32_P11_6_0_clip_1,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d32_P11_7_0_clip_1,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d30_P34_5_0_clip_1,1,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10,
+d30_P34_7_0_clip_1,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10,
+d30_P34_8_0_clip_1,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10,
+d30_P34_9_0_clip_1,4,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,40,20,2:10,
+d30_P36_10_0_clip_1,4,27,Male,79.0,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220,
+d30_P36_5_0_clip_1,1,27,Male,79.0,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220,
+d30_P36_6_0_clip_1,1,27,Male,79.0,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220,
+d30_P36_7_0_clip_1,2,27,Male,79.0,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220,
+d30_P36_8_0_clip_1,3,27,Male,79.0,188,No,3-5 times a week,3-4 hours,"running, tennis, rock climbing",Yes,1-2 times a week,10,42,220,
+d13_P17_10_0_clip_1,5,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d13_P17_8_0_clip_1,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d13_P17_8_1_clip_1,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d13_P17_8_2_clip_1,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d13_P17_9_0_clip_1,4,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d44_P52_5_0_clip_1,1,53,Male,67.0,181,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,35km,42.6 km,3:30:00,
+d44_P52_8_0_clip_1,4,53,Male,67.0,181,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,35km,42.6 km,3:30:00,
+d44_P52_9_0_clip_1,5,53,Male,67.0,181,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,35km,42.6 km,3:30:00,
+d33_P39_10_0_clip_1,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_0_clip_2,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_1_clip_1,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_1_clip_2,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_1_clip_3,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_2_clip_1,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_2_clip_2,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_10_2_clip_3,4,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_8_0_clip_1,2,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_8_0_clip_2,2,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_8_0_clip_3,2,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_9_0_clip_1,3,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d33_P39_9_0_clip_2,3,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,110,33,164,
+d19_P26_5_0_clip_1,1,30,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76,
+d19_P26_5_0_clip_2,1,30,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76,
+d19_P26_6_0_clip_1,2,30,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76,
+d19_P26_6_0_clip_2,2,30,Female,49.0,168,No,1-2 times a week,2-3 hours,Running,No,3-5 times a week,32,10,76,
+d37_P16_6_0_clip_1,2,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d37_P16_6_0_clip_2,2,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d37_P16_7_0_clip_1,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d37_P16_7_0_clip_2,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d37_P16_7_0_clip_3,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d37_P11_6_0_clip_1,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_6_0_clip_2,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_6_1_clip_1,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_6_1_clip_2,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_6_1_clip_3,2,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_7_0_clip_1,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_7_0_clip_2,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_7_0_clip_3,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_7_1_clip_1,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_7_1_clip_2,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d37_P11_7_1_clip_3,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d07_P10_8_0_clip_1,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_0_clip_2,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_0_clip_3,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_1_clip_1,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_1_clip_2,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_1_clip_3,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_2_clip_1,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_2_clip_2,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P10_8_2_clip_3,4,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,0,10 km,N.A.,
+d07_P11_7_0_clip_1,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d07_P11_7_0_clip_2,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d07_P11_7_0_clip_3,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d07_P11_7_1_clip_1,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d07_P11_7_1_clip_2,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d07_P11_7_1_clip_3,3,24,Female,52.0,163,No,1-2 times a week,< 1 hour,Hiit,No,1-2 times a week,5km,3km,30min,
+d04_P04_6_0_clip_1,2,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_6_0_clip_2,2,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_6_0_clip_3,2,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_7_0_clip_1,3,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_7_0_clip_2,3,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_7_0_clip_3,3,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_7_1_clip_1,3,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_7_1_clip_2,3,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P04_7_1_clip_3,3,33,Female,48.0,155,No,3-5 times a week,< 1 hour,biking hiking,No,< once a week,,,,
+d04_P01_6_0_clip_1,1,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_6_0_clip_2,1,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_6_0_clip_3,1,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_7_0_clip_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_7_0_clip_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_7_0_clip_3,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_8_0_clip_1,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_8_0_clip_2,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P01_8_0_clip_3,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,45 km,32 km,200 minutes,
+d04_P16_6_0_clip_1,2,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_6_0_clip_2,2,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_6_0_clip_3,2,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_7_0_clip_1,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_7_0_clip_2,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_7_0_clip_3,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_7_1_clip_1,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_7_1_clip_2,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d04_P16_7_1_clip_3,3,23,Female,70.0,163,No,1-2 times a week,1-2 hours,Treadmill run,No,1-2 times a week,7km,7km,50min,
+d10_P17_7_0_clip_1,1,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_7_0_clip_2,1,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_7_0_clip_3,1,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_8_0_clip_1,2,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_8_0_clip_2,2,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_8_0_clip_3,2,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_9_0_clip_1,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_9_0_clip_2,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_9_0_clip_3,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_9_1_clip_1,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_9_1_clip_2,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P17_9_1_clip_3,3,24,Male,56.0,175,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,60,43,3:16:30,
+d10_P49_10_0_clip_1,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_10_0_clip_2,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_10_0_clip_3,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_8_0_clip_1,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_8_0_clip_2,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_8_0_clip_3,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_8_1_clip_1,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_8_1_clip_2,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_8_1_clip_3,2,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_9_0_clip_1,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_9_0_clip_2,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d10_P49_9_0_clip_3,3,32,Male,58.0,171,No,1-2 times a week,3-4 hours,running,Yes,1-2 times a week,5km,42.195km,240min,
+d41_P18_5_0_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d41_P18_5_0_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d41_P18_5_0_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d41_P18_5_0_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d41_P18_5_0_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d14_P20_5_0_clip_2,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_0_clip_1,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_0_clip_2_1,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_0_clip_3,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_0_clip_2_2,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_1_clip_2,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_1_clip_1,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_1_clip_2_1,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_1_clip_3,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_1_clip_2_2,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_2_clip_1,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_2_clip_2_1,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_2_clip_3,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_5_2_clip_2_2,2,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_0_clip_2,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_0_clip_1,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_0_clip_2_1,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_0_clip_3,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_0_clip_2_2,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_1_clip_2,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_1_clip_1,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_1_clip_2_1,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_1_clip_3,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_6_1_clip_2_2,3,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_7_0_clip_2,4,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_7_0_clip_1,4,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_7_0_clip_2_1,4,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_7_0_clip_3,4,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d14_P20_7_0_clip_2_2,4,18,Female,50.0,167,No,1-2 times a week,1-2 hours,Running/Walking,No,1-2 times a week,,6km,34min,1-2 km
+d36_P39_7_0_clip_2,1,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,,33,164,110
+d36_P39_7_0_clip_1,1,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,,33,164,110
+d36_P39_7_0_clip_2_1,1,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,,33,164,110
+d36_P39_7_0_clip_3,1,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,,33,164,110
+d36_P39_7_0_clip_2_2,1,23,Male,58.0,186,No,Everyday,> 5 hours,Running,No,Everyday,,33,164,110
+d26_P31_5_0_clip_2,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_5_0_clip_1,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_5_0_clip_2_1,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_5_0_clip_3,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_5_0_clip_2_2,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_6_0_clip_2,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_6_0_clip_1,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_6_0_clip_2_1,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_6_0_clip_3,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_6_0_clip_2_2,3,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_7_0_clip_2,4,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_7_0_clip_1,4,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_7_0_clip_2_1,4,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_7_0_clip_3,4,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d26_P31_7_0_clip_2_2,4,31,Male,72.0,178,No,3-5 times a week,2-3 hours,running,Yes,3-5 times a week,,10,65,5
+d40_P24_7_0_clip_2,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_7_0_clip_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_7_0_clip_2_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_7_0_clip_3,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_7_0_clip_2_2,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_8_0_clip_2,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_8_0_clip_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_8_0_clip_2_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_8_0_clip_3,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_8_0_clip_2_2,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_9_0_clip_2,3,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_9_0_clip_1,3,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_9_0_clip_2_1,3,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_9_0_clip_3,3,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_9_0_clip_2_2,3,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_10_0_clip_2,4,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_10_0_clip_1,4,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_10_0_clip_2_1,4,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_10_0_clip_3,4,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_10_0_clip_2_2,4,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_6789_0_clip_2,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_6789_0_clip_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_6789_0_clip_2_1,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_6789_0_clip_3,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d40_P24_6789_0_clip_2_2,2,37,Male,76.0,174,No,> 5 times a week,> 5 hours,RUNNING,Yes,3-5 times a week,,5O ,around 6 hours,70
+d23_P18_5_1_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_5_1_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_5_1_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_5_1_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_5_1_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_6_0_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_6_0_clip_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_6_0_clip_2_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_6_0_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d23_P18_6_0_clip_2_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d27_P32_5_0_clip_2,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_5_0_clip_1,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_5_0_clip_2_1,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_6_0_clip_2,4,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_6_0_clip_1,4,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_6_0_clip_2_1,4,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_6_0_clip_3,4,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d27_P32_6_0_clip_2_2,4,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d42_P18_5_0_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_5_0_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_5_0_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_5_0_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_5_0_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_6_0_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_6_0_clip_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_6_0_clip_2_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_6_0_clip_3,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d42_P18_6_0_clip_2_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d05_P13_5_0_clip_2,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_0_clip_1,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_0_clip_2_1,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_0_clip_2,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_0_clip_2_2,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_1_clip_2,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_1_clip_1,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_1_clip_2_1,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_1_clip_3,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P13_5_1_clip_2_2,2,18,Female,62.0,162,No,1-2 times a week,< 1 hour,Walking,No,< once a week,,,,2 km
+d05_P06_5_0_clip_2,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_0_clip_1,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_0_clip_2_1,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_0_clip_3,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_0_clip_2_2,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_1_clip_2,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_1_clip_1,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_1_clip_2_1,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_1_clip_3,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d05_P06_5_1_clip_2_2,3,51,Female,57.0,160,No,> 5 times a week,1-2 hours,Yoga,No,< once a week,,,,
+d02_P02_6_0_clip_2,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_6_0_clip_1,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_6_0_clip_2_1,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_6_0_clip_3,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_6_0_clip_2_2,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_7_0_clip_2,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_7_0_clip_1,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_7_0_clip_2_1,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_7_0_clip_3,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_7_0_clip_2_2,2,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_8_0_clip_2,3,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_8_0_clip_1,3,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_8_0_clip_2_1,3,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_8_0_clip_2_3,3,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_8_0_clip_2_2,3,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_9_0_clip_2,4,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_9_0_clip_1,4,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_9_0_clip_2_1,4,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_9_0_clip_3,4,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P02_9_0_clip_2_2,4,27,Male,76.0,185,No,> 5 times a week,> 5 hours,"Running, weight lifting",No,> 5 times a week,,42,214,65
+d02_P07_7_0_clip_2,3,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_7_0_clip_1,3,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_7_0_clip_2_1,3,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_7_0_clip_3,3,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_7_0_clip_2_2,3,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_8_0_clip_2,4,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_8_0_clip_1,4,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_8_0_clip_2_1,4,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_8_0_clip_3,4,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d02_P07_8_0_clip_2_2,4,26,Female,60.0,172,No,> 5 times a week,> 5 hours,"Running, Yoga, Flexibility, HIIT",Yes,3-5 times a week,,21,122 min,50
+d35_P41_5_1_clip_2,2,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_5_1_clip_1,2,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_5_1_clip_2_1,2,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_5_1_clip_3,2,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_5_1_clip_2_2,2,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_0_clip_2,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_0_clip_1,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_0_clip_2_1,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_0_clip_3,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_0_clip_2_2,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_1_clip_2,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_1_clip_1,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_1_clip_2_1,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_1_clip_3,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d35_P41_6_1_clip_2_2,3,18,Female,59.0,168,No,1-2 times a week,< 1 hour,"basketball, weight lifting",No,< once a week,,5,33,1
+d01_P01_6_0_clip_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_6_0_clip_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_6_0_clip_2_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_6_0_clip_3,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_6_0_clip_2_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_7_0_clip_2,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_7_0_clip_1,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_7_0_clip_2_1,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_7_0_clip_3,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d01_P01_7_0_clip_2_2,3,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d34_P18_5_0_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_0_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_0_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_0_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_0_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_1_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_1_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_1_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_1_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d34_P18_5_1_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_0_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_0_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_0_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_0_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_0_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_1_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_1_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_1_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_1_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P18_5_1_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d24_P10_6_0_clip_2,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_0_clip_1,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_0_clip_2_1,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_0_clip_3,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_1_clip_2,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_1_clip_1,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_1_clip_2_1,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_1_clip_3,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_6_1_clip_2_2,2,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_7_0_clip_2,3,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_7_0_clip_1,3,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_7_0_clip_2_1,3,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_7_0_clip_3,3,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d24_P10_7_0_clip_2_2,3,23,Male,76.0,182,No,1-2 times a week,1-2 hours,"Weight training, eliptical",No,< once a week,,10 km,N.A.,0
+d20_P01_6_0_clip_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_0_clip_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_0_clip_2_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_0_clip_3,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_0_clip_2_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_1_clip_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_1_clip_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_1_clip_2_1,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_1_clip_3,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P01_6_1_clip_2_2,2,28,Female,44.0,155,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,32 km,200 minutes,45 km
+d20_P18_5_0_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_0_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_0_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_0_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_0_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_1_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_1_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_1_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_1_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_1_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_2_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_2_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_2_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_2_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d20_P18_5_2_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d03_P05_5_0_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_0_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_0_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_0_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_0_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_1_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_1_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_1_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_1_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_1_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_2_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_2_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_2_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_2_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_2_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_3_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_3_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_3_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_3_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_5_3_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_0_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_0_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_0_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_0_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_0_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_1_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_1_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_1_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_1_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_1_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_2_clip_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_2_clip_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_2_clip_2_1,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_2_clip_3,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_6_2_clip_2_2,2,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_7_0_clip_2,3,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_7_0_clip_1,3,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_7_0_clip_2_1,3,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_7_0_clip_3,3,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P05_7_0_clip_2_2,3,30,Female,51.0,160,No,3-5 times a week,> 5 hours,Running,No,3-5 times a week,,42,267,60
+d03_P45_6_1_clip_2,1,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_6_1_clip_1,1,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_6_1_clip_2_1,1,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_6_1_clip_3,1,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_6_1_clip_2_2,1,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_0_clip_2,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_0_clip_1,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_0_clip_2_1,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_0_clip_3,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_0_clip_2_2,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_1_clip_2,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_1_clip_1,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_1_clip_2_1,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_1_clip_3,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_7_1_clip_2_2,2,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_8_0_clip_2,3,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_8_0_clip_1,3,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_8_0_clip_2_1,3,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_8_0_clip_3,3,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d03_P45_8_0_clip_2_2,3,24,Male,79.0,185,No,1-2 times a week,2-3 hours,Running,No,1-2 times a week,,10,50,20
+d06_P14_7_1_clip_2,4,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P14_7_1_clip_1,4,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P14_7_1_clip_2,4,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P14_6_0_clip_1,3,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P14_6_0_clip_2,3,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P14_6_0_clip_3,3,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P14_6_0_clip_2_1,3,29,Male,70.0,172,No,1-2 times a week,3-4 hours,strength training ,No,1-2 times a week,,21,120,20
+d06_P08_8_0_clip_2,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_8_0_clip_1,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_8_0_clip_2_1,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_8_0_clip_3,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_8_0_clip_2_2,3,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_7_0_clip_2,2,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_7_0_clip_1,2,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_7_0_clip_2_1,2,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_7_0_clip_3,2,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_7_0_clip_2_2,2,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_6_0_clip_2,1,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_6_0_clip_1,1,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_6_0_clip_2_1,1,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_6_0_clip_3,1,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P08_6_0_clip_2_2,1,25,Male,71.0,174,No,3-5 times a week,2-3 hours,"Running, swimming, badminton",No,1-2 times a week,,10,48,8
+d06_P12_7_1_clip_2,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_7_1_clip_1,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_7_0_clip_2,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_7_0_clip_1,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_7_0_clip_2_2,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_7_0_clip_3,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_7_0_clip_2_3,4,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_2_clip_2,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_2_clip_1,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_2_clip_2_1,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_2_clip_3,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_2_clip_2_2,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_1_clip_2,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_1_clip_1,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_1_clip_2_1,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_1_clip_3,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P12_6_1_clip_2_2,3,26,Male,79.0,187,No,3-5 times a week,4-5 hours,Soccer and Running,Yes,3-5 times a week,,42.195,240,25
+d06_P09_7_1_clip_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_1_clip_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_1_clip_2_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_1_clip_3,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_1_clip_2_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_0_clip_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_0_clip_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_0_clip_2_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_0_clip_3,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_7_0_clip_2_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_1_clip_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_1_clip_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_1_clip_2_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_1_clip_3,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_1_clip_2_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_0_clip_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_0_clip_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_0_clip_2_1,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_0_clip_3,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d06_P09_6_0_clip_2_2,2,23,Male,64.0,172,Yes,3-5 times a week,2-3 hours,Running,No,1-2 times a week,,N.A.,N.A.,15
+d29_P18_6_0_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_0_clip_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_0_clip_2_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_0_clip_3,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_0_clip_2_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_1_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_1_clip_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_1_clip_2_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_1_clip_3,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_1_clip_2_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_2_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_2_clip_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_2_clip_2_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_2_clip_3,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d29_P18_6_2_clip_2_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d03_P03_7_0_clip_2,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_0_clip_1,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_0_clip_2_1,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_0_clip_3,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_0_clip_2_2,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_1_clip_2,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_1_clip_1,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_1_clip_2_1,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_1_clip_3,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_7_1_clip_2_2,1,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_0_clip_2,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_0_clip_1,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_0_clip_2_1,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_0_clip_3,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_0_clip_2_2,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_1_clip_2,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_1_clip_1,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_1_clip_2_1,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_1_clip_3,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_8_1_clip_2_2,2,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_9_1_clip_2,3,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_9_1_clip_1,3,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_9_1_clip_2_1,3,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_9_1_clip_3,3,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P03_9_1_clip_2_2,3,34,Male,60.5,181,No,> 5 times a week,> 5 hours,Running,Yes,> 5 times a week,,30,139,70
+d03_P34_6_0_clip_2,1,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_6_0_clip_1,1,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_6_0_clip_2_1,1,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_6_0_clip_3,1,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_6_0_clip_2_2,1,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_0_clip_2,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_0_clip_1,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_0_clip_2_1,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_0_clip_3,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_0_clip_2_2,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_1_clip_2,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_1_clip_1,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_1_clip_2_1,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_1_clip_3,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_7_1_clip_2_2,2,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_0_clip_2,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_0_clip_1,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_0_clip_2_1,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_0_clip_3,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_0_clip_2_2,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_1_clip_2,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_1_clip_1,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_1_clip_2_1,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d03_P34_8_1_clip_2_2,3,23,Male,73.0,172,No,3-5 times a week,> 5 hours,Running,Yes,3-5 times a week,,20,2:10,40
+d11_P18_5_0_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_0_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_0_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_0_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_0_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_1_clip_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_1_clip_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_1_clip_2_1,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_1_clip_3,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_5_1_clip_2_2,3,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_6_0_clip_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_6_0_clip_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_6_0_clip_2_1,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_6_0_clip_3,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d11_P18_6_0_clip_2_2,4,18,Female,75.0,171,No,1-2 times a week,< 1 hour,"Fencing, sometimes running",No,1-2 times a week,,21.3 km,190 minutes,3 km
+d09_P15_5_0_clip_1,1,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P15_5_0_clip_3,1,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P15_6_0_clip_1,1,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P15_6_0_clip_3,1,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P15_7_0_clip_1,2,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P15_7_0_clip_2_1,2,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P15_7_0_clip_3,2,33,Male,73.0,178,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P38_6_0_clip_2,2,24,Male,71.0,183,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P38_6_0_clip_1,2,24,Male,71.0,183,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P38_6_0_clip_3,2,24,Male,71.0,183,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P38_7_0_clip_2,3,24,Male,71.0,183,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P38_7_0_clip_1,3,24,Male,71.0,183,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P38_7_0_clip_3,3,24,Male,71.0,183,No,1-2 times a week,< 1 hour,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P57_5_0_clip_1,2,23,Male,76.0,183,No,1-2 times a week,1-2 hours,Tennis,No,< once a week,,N.A.,N.A.,
+d09_P57_5_0_clip_3,2,23,Male,76.0,183,No,1-2 times a week,1-2 hours,Tennis,No,< once a week,,N.A.,N.A.,
+d16_P30_7_0_clip_2,3,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_7_0_clip_1,3,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_7_0_clip_2_1,3,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_7_0_clip_3,3,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_7_0_clip_2_2,3,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_8_0_clip_2,4,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_8_0_clip_1,4,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_8_0_clip_2_1,4,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_8_0_clip_3,4,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P30_8_0_clip_2_2,4,57,Male,58.0,170,No,3-5 times a week,4-5 hours,running,No,3-5 times a week,,50k,6h,50
+d16_P40_5_0_clip_2,1,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_5_0_clip_1,1,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_5_0_clip_2_1,1,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_5_0_clip_3,1,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_5_0_clip_2_2,1,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_7_0_clip_2,3,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_7_0_clip_1,3,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_7_0_clip_2_1,3,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_7_0_clip_3,3,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_7_0_clip_2_2,3,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_8_0_clip_2,4,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_8_0_clip_1,4,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_8_0_clip_2_1,4,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_8_0_clip_3,4,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P40_8_0_clip_2_2,4,58,Female,52.0,160,No,> 5 times a week,> 5 hours,"swimming, running",No,3-5 times a week,,ny marathon,3h 26,30 miles
+d16_P22_6_0_clip_2,1,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_6_0_clip_1,1,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_6_0_clip_2_1,1,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_6_0_clip_3,1,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_6_0_clip_2_2,1,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_7_0_clip_2,2,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_7_0_clip_1,2,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_7_0_clip_2_1,2,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_7_0_clip_3,2,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_7_0_clip_2_2,2,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_8_0_clip_2,3,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_8_0_clip_1,3,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_8_0_clip_2_1,3,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_8_0_clip_3,3,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d16_P22_8_0_clip_2_2,3,55,Female,48.0,157,Yes,Everyday,> 5 hours,"running, yoga, swimming",Yes,3-5 times a week,,20 miles,3 hours,40 miles
+d21_P55_5_0_clip_2,2,57,Male,59.0,171,No,> 5 times a week,> 5 hours,Running,No,> 5 times a week,,50 miles,11 h,50 miles
+d21_P55_5_0_clip_1,2,57,Male,59.0,171,No,> 5 times a week,> 5 hours,Running,No,> 5 times a week,,50 miles,11 h,50 miles
+d21_P55_5_0_clip_2_1,2,57,Male,59.0,171,No,> 5 times a week,> 5 hours,Running,No,> 5 times a week,,50 miles,11 h,50 miles
+d21_P55_5_0_clip_3,2,57,Male,59.0,171,No,> 5 times a week,> 5 hours,Running,No,> 5 times a week,,50 miles,11 h,50 miles
+d21_P55_5_0_clip_2_2,2,57,Male,59.0,171,No,> 5 times a week,> 5 hours,Running,No,> 5 times a week,,50 miles,11 h,50 miles
+d21_P50_5_0_clip_1,2,31,Female,62.0,167,No,3-5 times a week,4-5 hours,"Running, bicycle, weight",No,3-5 times a week,,42k,5h,15 miles
+d21_P50_5_0_clip_2_1,2,31,Female,62.0,167,No,3-5 times a week,4-5 hours,"Running, bicycle, weight",No,3-5 times a week,,42k,5h,15 miles
+d21_P50_5_0_clip_3,2,31,Female,62.0,167,No,3-5 times a week,4-5 hours,"Running, bicycle, weight",No,3-5 times a week,,42k,5h,15 miles
+d21_P50_5_0_clip_2_2,2,31,Female,62.0,167,No,3-5 times a week,4-5 hours,"Running, bicycle, weight",No,3-5 times a week,,42k,5h,15 miles
+d21_P27_6_0_clip_2,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_6_0_clip_1,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_6_0_clip_2_1,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_6_0_clip_3,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_6_0_clip_2_2,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_7_0_clip_2,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_7_0_clip_1,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_7_0_clip_2_1,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_7_0_clip_3,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P27_7_0_clip_2_2,2,51,Female,51.0,165,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,50k,7 h,25 mile
+d21_P58_6_0_clip_2,2,53,Female,47.0,159,No,< once a week,1-2 hours,Running,No,< once a week,,42 k,4 h 13,5 miles
+d21_P58_6_0_clip_1,2,53,Female,47.0,159,No,< once a week,1-2 hours,Running,No,< once a week,,42 k,4 h 13,5 miles
+d21_P58_6_0_clip_2_1,2,53,Female,47.0,159,No,< once a week,1-2 hours,Running,No,< once a week,,42 k,4 h 13,5 miles
+d21_P58_6_0_clip_3,2,53,Female,47.0,159,No,< once a week,1-2 hours,Running,No,< once a week,,42 k,4 h 13,5 miles
+d21_P58_6_0_clip_2_2,2,53,Female,47.0,159,No,< once a week,1-2 hours,Running,No,< once a week,,42 k,4 h 13,5 miles
+d21_P51_5_0_clip_2,2,62,Female,54.0,160,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,42k,5h 12,30k
+d21_P51_5_0_clip_1,2,62,Female,54.0,160,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,42k,5h 12,30k
+d21_P51_5_0_clip_2_1,2,62,Female,54.0,160,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,42k,5h 12,30k
+d21_P51_5_0_clip_3,2,62,Female,54.0,160,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,42k,5h 12,30k
+d21_P51_5_0_clip_2_2,2,62,Female,54.0,160,No,3-5 times a week,3-4 hours,Running,No,3-5 times a week,,42k,5h 12,30k
+d21_P43_5_0_clip_1,2,56,Female,68.0,158,No,3-5 times a week,2-3 hours,running,No,3-5 times a week,,42 k,4h52m,30 k
+d21_P43_5_0_clip_2_1,2,56,Female,68.0,158,No,3-5 times a week,2-3 hours,running,No,3-5 times a week,,42 k,4h52m,30 k
+d21_P43_5_0_clip_3,2,56,Female,68.0,158,No,3-5 times a week,2-3 hours,running,No,3-5 times a week,,42 k,4h52m,30 k
+d21_P43_5_0_clip_2_2,2,56,Female,68.0,158,No,3-5 times a week,2-3 hours,running,No,3-5 times a week,,42 k,4h52m,30 k
+d21_P53_5_0_clip_1,1,63,Female,54.0,153,No,3-5 times a week,3-4 hours,"running, yoga",No,3-5 times a week,,marathon 42 k,6 h,20 miles
+d21_P53_5_0_clip_3,1,63,Female,54.0,153,No,3-5 times a week,3-4 hours,"running, yoga",No,3-5 times a week,,marathon 42 k,6 h,20 miles
