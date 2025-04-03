@@ -78,15 +78,11 @@ The content in general_information.csv includes:
 ## Citation
 
 ```
-@article{nie2025dataset,
+@inproceedings{nie2025multi,
   title={Multi-Modal Dataset Across Exertion Levels: Capturing Post-Exercise Speech, Breathing, and Phonocardiogram},
-  author={XXX},
-  journal={XXX},
-  volume={XX},
-  number={XX},
-  pages={XX},
-  year={2025},
-  publisher={XXX}
+  author={Nie, Jingping and Fan, Yuang and Zhao, Minghui and Wan, Runxi and Xuan, Ziyi and Preindl, Matthias and Jiang, Xiaofan},
+  booktitle={Proc. Proceedings of ACM Conference on Embedded Networked Sensor Systems (SenSys'25)},
+  year={2025}
 }
 ```
 
